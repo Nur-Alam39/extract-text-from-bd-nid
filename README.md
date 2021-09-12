@@ -1,8 +1,21 @@
 # Extract text from NID Image
+
 Exact information as text from Bangladesh National Identity Card (NID) using python.
 
-Used EasyOcr https://github.com/JaidedAI/EasyOCR
 
+# Development Technique
+
+### Platform
+Used Google CoLab
+https://colab.research.google.com/notebooks/intro.ipynb
+
+### Required Package
+EasyOCR https://github.com/JaidedAI/EasyOCR
+
+Command: `pip install easyocr`
+
+
+# Examples
 Sample NID Iamge:
 
 Image 1:
