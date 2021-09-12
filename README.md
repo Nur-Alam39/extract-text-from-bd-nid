@@ -1,4 +1,4 @@
-# Extract text from NID Image
+# Extract text from BD NID Image
 
 Exact information as text from Bangladesh National Identity Card (NID) using python.
 
