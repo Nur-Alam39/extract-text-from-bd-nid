@@ -16,7 +16,8 @@ Command: `pip install easyocr`
 
 
 # Examples
-Sample NID Iamge:
+Sample NID Iamge
+[Samples taken from google image]
 
 Image 1:
 
